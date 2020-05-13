@@ -1,5 +1,3 @@
-
-
 <template>
   <div class="signup">
     <div class="container">

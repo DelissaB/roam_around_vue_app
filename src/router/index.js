@@ -5,9 +5,9 @@ import About from "../views/About.vue";
 import Signup from "../views/Signup.vue";
 import Login from "../views/Login.vue";
 import Logout from "../views/Logout.vue";
-import RequestsNew from "../views/RequestsNew.vue";
-import RequestsShow from "../views/RequestsShow.vue";
-import StylesShow from "../views/StylesShow.vue";
+import StylesIndex from "../views/StylesIndex.vue";
+import RequestsIndex from "../views/RequestsIndex.vue";
+import LocationsIndex from "../views/LocationsIndex.vue";
 
 Vue.use(VueRouter);
 
@@ -41,19 +41,19 @@ const routes = [
     component: Logout,
   },
   {
-    path: "/requests/new",
-    name: "requests-new",
-    component: RequestsNew,
+    path: "/styles",
+    name: "styles-index",
+    component: StylesIndex,
   },
   {
-    path: "/requests/:id",
-    name: "requests-show",
-    component: RequestsShow,
+    path: "/requests",
+    name: "requests-index",
+    component: RequestsIndex,
   },
   {
-    path: "/styles/:id",
-    name: "styles-show",
-    component: StylesShow,
+    path: "/locations",
+    name: "locations",
+    component: LocationsIndex,
   },
 ];
 
