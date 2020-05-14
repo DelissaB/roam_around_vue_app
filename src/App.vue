@@ -1,38 +1,49 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link>|
-      <!-- <router-link to="/about">About</router-link>| -->
-      <router-link to="/signup">Signup</router-link>|
-      <router-link to="/login">Login</router-link>|
-      <router-link to="/styles">Styles</router-link>|
-      <router-link to="/locations">Locations</router-link>|
-      <router-link to="/requests">Saved Requests</router-link>|
-      <router-link to="/logout">Logout</router-link>|
+    <!-- Nav -->
+    <nav id="nav">
+      <ul>
+        <li>
+          <a href="#top" id="top-link">
+            <span class="icon solid fa-home">Intro</span>
+          </a>
+        </li>
+        <li>
+          <a href="#portfolio" id="portfolio-link">
+            <span class="icon solid fa-th">Portfolio</span>
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    <!-- Header -->
+    <div id="header">
+      <div class="top">
+        <!-- Logo -->
+        <div id="logo">
+          <span class="95c29e02-8a66-470d-b88c-4be8f005613e.JPG">
+            <img src="images/thailand.jpg" alt />
+          </span>
+        </div>
+      </div>
     </div>
+
     <router-view />
+
+    <!-- Footer -->
+    <div id="footer">
+      <!-- Copyright -->
+      <ul class="copyright">
+        <li>&copy; Untitled. All rights reserved.</li>
+        <li>
+          Design:
+          <a href="http://html5up.net">HTML5 UP</a>
+        </li>
+      </ul>
+    </div>
   </div>
 </template>
 
+
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
-
-#nav {
-  padding: 30px;
-}
-
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-#nav a.router-link-exact-active {
-  color: #b942b9;
-}
 </style>
