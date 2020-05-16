@@ -5,22 +5,25 @@
     <section id="intro" class="main style1 dark fullscreen">
       <div class="content">
         <header>
-          <h2>Hey.</h2>
+          <h2>
+            Welcome to
+            <strong>Roam Around!</strong>
+          </h2>
         </header>
         <p>
-          Welcome to
           <strong>Roam Around!</strong>
           An interactive travel app which encourages travel to places in the world that you may not have initially
           considered.
+          <hr />
           <a
-            href="/signup"
+            href="/signup" class="button">Click here to Signup!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            <!-- This added space between the buttons -->
+      <a
+            href="/login"class="button">Click here to Login!
           >
-            <hr />
-            <br />Click here to sign up!
-          </a>
+          </a>    
 
-          <a href="/signup"></a>
-          .
+          <!-- <a href="https://html5up.net/license">Creative Commons Attribution license</a> -->
         </p>
         <footer>
           <a href="#one" class="button style2 down">More</a>
