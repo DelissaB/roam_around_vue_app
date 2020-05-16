@@ -1,11 +1,13 @@
 <template>
   <div id="app">
-    <router-view />
     <!-- Header -->
     <header id="header">
-      <h1>Roam Around</h1>
+      <h1>Roam Around Travel App!</h1>
       <nav>
         <ul>
+          <li>
+            <a href="/home">Home</a>
+          </li>
           <li>
             <a href="/signup">Signup</a>
           </li>
@@ -25,9 +27,11 @@
       </nav>
     </header>
 
+    <router-view />
+
     <!-- Footer -->
     <footer id="footer">
-      <!-- Icons -->
+      <!-- Icons
       <ul class="icons">
         <li>
           <a href="#" class="icon brands fa-twitter">
@@ -59,19 +63,22 @@
             <span class="label">Pinterest</span>
           </a>
         </li>
-      </ul>
+      </ul>-->
 
       <!-- Menu -->
       <ul class="menu">
         <li>&copy; Untitled</li>
         <li>
-          Design:
-          <a href="/https://html5up.net">HTML5 UP</a>
+          Created by Delissa Beaman
+          <a href="#"></a>
         </li>
       </ul>
     </footer>
   </div>
 </template>
+
+
+
 
 <style>
 </style>
