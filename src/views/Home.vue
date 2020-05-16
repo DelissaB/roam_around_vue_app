@@ -14,17 +14,14 @@
           <strong>Roam Around!</strong>
           An interactive travel app which encourages travel to places in the world that you may not have initially
           considered.
-          <hr />
-          <a
-            href="/signup" class="button">Click here to Signup!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-            <!-- This added space between the buttons -->
-      <a
-            href="/login"class="button">Click here to Login!
-          >
-          </a>    
-
-          <!-- <a href="https://html5up.net/license">Creative Commons Attribution license</a> -->
         </p>
+        <hr />
+        <a href="/signup" class="button">Click here to Signup!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <!-- This added space between the buttons -->
+        <a href="/login" class="button">Click here to Login!</a>
+
+        <!-- <a href="https://html5up.net/license">Creative Commons Attribution license</a> -->
+
         <footer>
           <a href="#one" class="button style2 down">More</a>
         </footer>
@@ -34,12 +31,12 @@
     <section id="one" class="main style2 right dark fullscreen">
       <div class="content box style2">
         <header>
-          <h2>What I Do</h2>
+          <h2>Girlfriends' Getaway!</h2>
         </header>
         <p>
-          Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum. Fusce blandit ultrices sapien, in
-          accumsan orci rhoncus eu. Sed sodales venenatis arcu, id varius justo euismod in. Curabitur egestas consectetur
-          magna.
+          Amazing sightseeing, shopping, beautiful beaches and endless fun with your gal pals!
+          <hr>
+          <strong>"We Travel not to Escape Life, but for Life not to escape us" - Anonymous</strong>
         </p>
       </div>
       <a href="#two" class="button style2 down anchored">Next</a>
@@ -49,27 +46,40 @@
     <section id="two" class="main style2 left dark fullscreen">
       <div class="content box style2">
         <header>
-          <h2>Who I Am</h2>
+          <h2>Couples' Trip</h2>
         </header>
         <p>
-          Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum. Fusce blandit ultrices sapien, in
-          accumsan orci rhoncus eu. Sed sodales venenatis arcu, id varius justo euismod in. Curabitur egestas consectetur
-          magna.
+          In search of a romantic escape? Click here to find your next travel destination! From romantic and relaxing to a party goers wildest dreams.  Discover beautiful scenery  fabulous dining and dancing while exploring!
+          <hr>
+          <strong>"Wheresoever you go, go with all your heart." - Confucius</strong> 
         </p>
       </div>
       <a href="#work" class="button style2 down anchored">Next</a>
     </section>
 
+    <!-- Three -->
+    <section id="three" class="main style2 right dark fullscreen">
+      <div class="content box style2">
+        <header>
+          <h2>Fun with the family!</h2>
+        </header>
+        <p>Create memories of active learning! Discover cool places and experiencing different cultures with children!<hr> <strong>"If kids live there, then kids can travel there" - TravelwithMeko</strong></p>
+      </div>
+      <a href="#two" class="button style2 down anchored">Next</a>
+    </section>
     <!-- Work -->
     <section id="work" class="main style3 primary">
       <div class="content">
         <header>
-          <h2>My Work</h2>
-          <p>
-            Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum. Fusce blandit ultrices sapien, in
-            accumsan orci rhoncus eu. Sed sodales venenatis arcu, id varius justo euismod in. Curabitur egestas consectetur
-            magna vitae.
+          <h2>Trip Styles</h2>
+          <p><strong>
+            You pick the style of trip you want!
+            <br />Let us suggest where you should go!
+            </strong>
           </p>
+          <a href="/locations/?style_id=1" class="button">Girlfriends' Getaway!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="/locations/?style_id=2" class="button">Couples' Trip!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="/locations/?style_id=3" class="button">Fun with the Family!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </header>
 
         <!-- Gallery  -->
