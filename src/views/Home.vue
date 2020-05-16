@@ -67,8 +67,8 @@
       </div>
       <a href="#two" class="button style2 down anchored">Next</a>
     </section>
-    <!-- Work -->
-    <section id="work" class="main style3 primary">
+    <!-- Trip Styles -->
+    <section id="trip styles" class="main style3 primary">
       <div class="content">
         <header>
           <h2>Trip Styles</h2>
@@ -85,33 +85,33 @@
         <!-- Gallery  -->
         <div class="gallery">
           <article class="from-left">
-            <a href="images/fulls/01.jpg" class="image fit">
-              <img src="images/thumbs/01.jpg" title="The Anonymous Red" alt />
+            <a href="/images/CouplesTrip.jpg" class="image fit">
+              <img src="/images/CouplesTrip.jpg" title="Chiang Mai, Thailand" alt />
             </a>
           </article>
           <article class="from-right">
-            <a href="images/fulls/02.jpg" class="image fit">
-              <img src="images/thumbs/02.jpg" title="Airchitecture II" alt />
+            <a href="/images/CapeTown.jpg" class="image fit">
+              <img src="/images/CapeTown.jpg" title="Cape Town, South Africa" alt />
             </a>
           </article>
           <article class="from-left">
-            <a href="images/fulls/03.jpg" class="image fit">
-              <img src="images/thumbs/03.jpg" title="Air Lounge" alt />
+            <a href="/images/Greece.jpg" class="image fit">
+              <img src="/images/Greece.jpg" title="Mykonos, Greece" alt />
             </a>
           </article>
           <article class="from-right">
-            <a href="images/fulls/04.jpg" class="image fit">
-              <img src="images/thumbs/04.jpg" title="Carry on" alt />
+            <a href="/images/GirlfriendGetaway.jpg" class="image fit">
+              <img src="/images/GirlfriendGetaway.jpg" title="Atlanta, Georgia" alt />
             </a>
           </article>
           <article class="from-left">
-            <a href="images/fulls/05.jpg" class="image fit">
-              <img src="images/thumbs/05.jpg" title="The sparkling shell" alt />
+            <a href="/images/Family.jpg" class="image fit">
+              <img src="/images/Family.jpg" title="Nassau, Bahamas" alt />
             </a>
           </article>
           <article class="from-right">
-            <a href="images/fulls/06.jpg" class="image fit">
-              <img src="images/thumbs/06.jpg" title="Bent IX" alt />
+            <a href="/images/Thailand Night.jpg" class="image fit">
+              <img src="/images/Thailand Night.jpg" title="Phuket, Thailand" alt />
             </a>
           </article>
         </div>
@@ -122,8 +122,8 @@
     <section id="contact" class="main style3 secondary">
       <div class="content">
         <header>
-          <h2>Say Hello.</h2>
-          <p>Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum.</p>
+          <h2>Stay Connected.</h2>
+          <p>Signup to be added to our email list. <hr> Receive travel related news updates and sample travel itineraries.</p>
         </header>
         <div class="box">
           <form method="post" action="#">
@@ -134,13 +134,14 @@
               <div class="field half">
                 <input type="email" name="email" placeholder="Email" />
               </div>
-              <div class="field">
+              <!-- <div class="field">
                 <textarea name="message" placeholder="Message" rows="6"></textarea>
-              </div>
+              </div> -->
             </div>
             <ul class="actions special">
               <li>
-                <input type="submit" value="Send Message" />
+                <a href="/logout" class="button">Thank you for signing up to the Roam Around Email list!</a>
+                <!-- <input type="submit" value="Send Message" /> -->
               </li>
             </ul>
           </form>
