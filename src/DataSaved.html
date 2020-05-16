@@ -1,13 +1,14 @@
- <!-- Intro -->
- <section id="intro" class="main style1 dark fullscreen">
+<!-- Intro -->
+<section id="intro" class="main style1 dark fullscreen">
   <div class="content">
     <header>
       <h2>Hey.</h2>
     </header>
     <p>
       Welcome to
-      <strong>Big Picture</strong>
-      a responsive site template designed by
+      <strong>Roam Around!</strong>
+      An interactive travel app which encourages travel to places in the world that you may not have initially
+      considered
       <a href="https://html5up.net">HTML5 UP</a>
       <br />
       and released for free under the
@@ -27,9 +28,9 @@
       <h2>What I Do</h2>
     </header>
     <p>
-      Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum. Fusce blandit ultrices sapien,
-      in accumsan orci rhoncus eu. Sed sodales venenatis arcu, id varius justo euismod in. Curabitur egestas
-      consectetur magna.
+      Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum. Fusce blandit ultrices sapien, in
+      accumsan orci rhoncus eu. Sed sodales venenatis arcu, id varius justo euismod in. Curabitur egestas consectetur
+      magna.
     </p>
   </div>
   <a href="#two" class="button style2 down anchored">Next</a>
@@ -42,9 +43,9 @@
       <h2>Who I Am</h2>
     </header>
     <p>
-      Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum. Fusce blandit ultrices sapien,
-      in accumsan orci rhoncus eu. Sed sodales venenatis arcu, id varius justo euismod in. Curabitur egestas
-      consectetur magna.
+      Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum. Fusce blandit ultrices sapien, in
+      accumsan orci rhoncus eu. Sed sodales venenatis arcu, id varius justo euismod in. Curabitur egestas consectetur
+      magna.
     </p>
   </div>
   <a href="#work" class="button style2 down anchored">Next</a>
@@ -56,9 +57,9 @@
     <header>
       <h2>My Work</h2>
       <p>
-        Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum. Fusce blandit ultrices
-        sapien, in accumsan orci rhoncus eu. Sed sodales venenatis arcu, id varius justo euismod in. Curabitur
-        egestas consectetur magna vitae.
+        Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum. Fusce blandit ultrices sapien, in
+        accumsan orci rhoncus eu. Sed sodales venenatis arcu, id varius justo euismod in. Curabitur egestas consectetur
+        magna vitae.
       </p>
     </header>
 
@@ -120,24 +121,31 @@
   </div>
 </section>
 
-
-/Template removed from App.vue template<template>
+/Template removed from App.vue template
+<template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link>|
+      <router-link to="/">Home</router-link>
+      |
       <!-- <router-link to="/about">About</router-link>| -->
-      <router-link to="/signup">Signup</router-link>|
-      <router-link to="/login">Login</router-link>|
-      <router-link to="/styles">Styles</router-link>|
-      <router-link to="/locations">Locations</router-link>|
-      <router-link to="/requests">Saved Requests</router-link>|
-      <router-link to="/logout">Logout</router-link>|
+      <router-link to="/signup">Signup</router-link>
+      |
+      <router-link to="/login">Login</router-link>
+      |
+      <router-link to="/styles">Styles</router-link>
+      |
+      <router-link to="/locations">Locations</router-link>
+      |
+      <router-link to="/requests">Saved Requests</router-link>
+      |
+      <router-link to="/logout">Logout</router-link>
+      |
     </div>
     <router-view />
   </div>
 </template>
 
-#Removed from styleindex template 
+#Removed from styleindex template
 <div v-for="style in styles">
   <p>Trip Style: {{ style.trip_name }}</p>
 
@@ -152,8 +160,4 @@
   </a>-->
 </div>
 
-
-#Moved from StyleIndex-  this was the work class 
-class = main style3 primary
-
-
+#Moved from StyleIndex- this was the work class class = main style3 primary

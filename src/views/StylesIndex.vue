@@ -5,7 +5,7 @@
 
       <!-- <button v-href="/locations">Select a Trip Style</button> -->
 
-      <!-- <router-link to v-bind:to="`/locations?style_id=${style.id}`" tag="button">Select a Trip</router-link> -->
+      <router-link v-bind:to="`/locations?style_id=${style.id}`" tag="button">Select a Trip Style!</router-link>
 
       <!-- <button v-on:click="location.href=url('events')" class="button uk-button-link">Trip Style</button> -->
 

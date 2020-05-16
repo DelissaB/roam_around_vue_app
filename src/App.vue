@@ -5,9 +5,13 @@
       <h1>Roam Around Travel App!</h1>
       <nav>
         <ul>
+          <!-- This links to the App.vue page -->
           <li>
-            <a href="/home">Home</a>
+            <a href="/logout">Home</a>
           </li>
+          <!-- <li>
+            <a href="/home">Home</a>
+          </li>-->
           <li>
             <a href="/signup">Signup</a>
           </li>
@@ -21,7 +25,7 @@
             <a href="/locations">Locations</a>
           </li>
           <li>
-            <a href="/logout">Logout</a>
+            <a href="/home">Logout</a>
           </li>
         </ul>
       </nav>
