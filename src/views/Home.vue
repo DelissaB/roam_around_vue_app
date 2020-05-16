@@ -11,14 +11,15 @@
           Welcome to
           <strong>Roam Around!</strong>
           An interactive travel app which encourages travel to places in the world that you may not have initially
-          considered
+          considered.
           <a
-            href="https://html5up.net"
-          >HTML5 UP</a>
-          <br />and released for free under the
-          <a
-            href="https://html5up.net/license"
-          >Creative Commons Attribution license</a>
+            href="/signup"
+          >
+            <hr />
+            <br />Click here to sign up!
+          </a>
+
+          <a href="/signup"></a>
           .
         </p>
         <footer>
@@ -26,7 +27,6 @@
         </footer>
       </div>
     </section>
-
     <!-- One -->
     <section id="one" class="main style2 right dark fullscreen">
       <div class="content box style2">
