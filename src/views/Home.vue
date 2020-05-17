@@ -14,6 +14,11 @@
           <strong>Roam Around!</strong>
           An interactive travel app which encourages travel to places in the world that you may not have initially
           considered.
+
+
+
+
+          .
         </p>
         <hr />
         <a href="/signup" class="button">Click here to Signup!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,6 +44,11 @@
 
 
           
+
+
+
+
+          
           .
           <hr>
           <strong>"We Travel not to Escape Life, but for Life not to escape us" - Anonymous</strong>
@@ -59,7 +69,7 @@
           <strong>"Wheresoever you go, go with all your heart." - Confucius</strong> 
         </p>
       </div>
-      <a href="#work" class="button style2 down anchored">Next</a>
+      <a href="#three" class="button style2 down anchored">Next</a>
     </section>
 
     <!-- Three -->
@@ -72,7 +82,7 @@
           <hr>
            <strong>"If kids live there, then kids can travel there" - TravelwithMeko</strong></p>
       </div>
-      <a href="#two" class="button style2 down anchored">Next</a>
+      <a href="trip styles" class="button style2 down anchored">Next</a>
     </section>
     <!-- Trip Styles -->
     <section id="trip styles" class="main style3 primary">
