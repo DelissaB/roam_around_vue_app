@@ -2329,7 +2329,8 @@ body.is-touch .main {
 /* Intro */
 
 #intro {
-  background: url("images/overlay.png"), url("../../images/intro.jpg");
+  background: url("/Users/acltc/actualize/roam_around_vue_app/public/images/southafrica.jpg"),
+    url("/images/southafrica.jpg");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, bottom center;
@@ -2339,7 +2340,8 @@ body.is-touch .main {
 /* One */
 
 #one {
-  background: url("images/overlay.png"), url("../../images/one.jpg");
+  background: url("/Users/acltc/actualize/roam_around_vue_app/public/images/balipinkbeach.jpg"),
+    url("/images/balipinkbeach.jpg");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, center center;
@@ -2348,12 +2350,19 @@ body.is-touch .main {
 /* Two */
 
 #two {
-  background: url("images/overlay.png"), url("../../images/two.jpg");
+  background: url("/Users/acltc/actualize/roam_around_vue_app/public/images/Brazil.jpg"), url("/images/Brazil.jpg");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, center center;
 }
+/* Three */
 
+#three {
+  background: url("/Users/acltc/actualize/roam_around_vue_app/public/images/chicago.jpg"), url("/images/chicago.jpg");
+  background-size: 256px 256px, cover;
+  background-attachment: fixed, fixed;
+  background-position: top left, center center;
+}
 /* Contact */
 
 #contact {

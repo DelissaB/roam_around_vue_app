@@ -35,6 +35,11 @@
         </header>
         <p>
           Amazing sightseeing, shopping, beautiful beaches and endless fun with your gal pals!
+
+
+
+          
+          .
           <hr>
           <strong>"We Travel not to Escape Life, but for Life not to escape us" - Anonymous</strong>
         </p>
@@ -63,7 +68,9 @@
         <header>
           <h2>Fun with the family!</h2>
         </header>
-        <p>Create memories of active learning! Discover cool places and experiencing different cultures with children!<hr> <strong>"If kids live there, then kids can travel there" - TravelwithMeko</strong></p>
+        <p>Create memories of active learning! Discover cool places and experiencing different cultures with children!
+          <hr>
+           <strong>"If kids live there, then kids can travel there" - TravelwithMeko</strong></p>
       </div>
       <a href="#two" class="button style2 down anchored">Next</a>
     </section>
@@ -95,8 +102,8 @@
             </a>
           </article>
           <article class="from-left">
-            <a href="/images/Greece.jpg" class="image fit">
-              <img src="/images/Greece.jpg" title="Mykonos, Greece" alt />
+            <a href="/images/pink beach.jpg" class="image fit">
+              <img src="/images/pink beach.jpg" title="Mykonos, Greece" alt />
             </a>
           </article>
           <article class="from-right">
