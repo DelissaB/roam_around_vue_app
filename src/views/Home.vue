@@ -21,9 +21,9 @@
           .
         </p>
         <hr />
-        <a href="/signup" class="button">Click here to Signup!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="/signup" class="button">Signup!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <!-- This added space between the buttons -->
-        <a href="/login" class="button">Click here to Login!</a>
+        <a href="/login" class="button">Login!</a>
 
         <!-- <a href="https://html5up.net/license">Creative Commons Attribution license</a> -->
 
@@ -48,7 +48,7 @@
 
 
 
-          
+
           .
           <hr>
           <strong>"We Travel not to Escape Life, but for Life not to escape us" - Anonymous</strong>
@@ -69,7 +69,7 @@
           <strong>"Wheresoever you go, go with all your heart." - Confucius</strong> 
         </p>
       </div>
-      <a href="#three" class="button style2 down anchored">Next</a>
+      <a href="three" class="button style2 down anchored">Next</a>
     </section>
 
     <!-- Three -->
@@ -82,33 +82,34 @@
           <hr>
            <strong>"If kids live there, then kids can travel there" - TravelwithMeko</strong></p>
       </div>
-      <a href="trip styles" class="button style2 down anchored">Next</a>
+      <a href="trip style" class="button style2 down anchored">Next</a>
     </section>
     <!-- Trip Styles -->
     <section id="trip styles" class="main style3 primary">
       <div class="content">
         <header>
           <h2>Trip Styles</h2>
+          <a href="/signup" class="button style2 down anchored">Signup</a>
           <p><strong>
             You pick the style of trip you want!
             <br />Let us suggest where you should go!
             </strong>
           </p>
-          <a href="/locations/?style_id=1" class="button">Girlfriends' Getaway!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <!-- <a href="/locations/?style_id=1" class="button">Girlfriends' Getaway!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <a href="/locations/?style_id=2" class="button">Couples' Trip!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="/locations/?style_id=3" class="button">Fun with the Family!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="/locations/?style_id=3" class="button">Fun with the Family!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
         </header>
 
         <!-- Gallery  -->
         <div class="gallery">
           <article class="from-left">
-            <a href="/images/CouplesTrip.jpg" class="image fit">
+            <a href="/Users/acltc/actualize/roam_around_vue_app/public/images/CouplesTrip.jpg" class="image fit">
               <img src="/images/CouplesTrip.jpg" title="Chiang Mai, Thailand" alt />
             </a>
           </article>
           <article class="from-right">
-            <a href="/images/CapeTown.jpg" class="image fit">
-              <img src="/images/CapeTown.jpg" title="Cape Town, South Africa" alt />
+            <a href="/Users/acltc/actualize/roam_around_vue_app/public/images/CapeTown.JPG" class="image fit">
+              <img src="/images/CapeTown.JPG" title="Cape Town, South Africa" alt />
             </a>
           </article>
           <article class="from-left">
@@ -122,8 +123,8 @@
             </a>
           </article>
           <article class="from-left">
-            <a href="/images/Family.jpg" class="image fit">
-              <img src="/images/Family.jpg" title="Nassau, Bahamas" alt />
+            <a href="/Users/acltc/actualize/roam_around_vue_app/public/images/Family 2.JPG" class="image fit">
+              <img src="/images/Family 2.JPG" title="Nassau, Bahamas" alt />
             </a>
           </article>
           <article class="from-right">
