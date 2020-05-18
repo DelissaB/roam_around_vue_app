@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="intro">
     <h1>{{ message }}</h1>
     <!-- Intro -->
     <section id="intro" class="main style1 dark fullscreen">
@@ -21,7 +21,7 @@
           .
         </p>
         <hr />
-        <a href="/signup" class="button">Signup!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#one" class="button">Signup!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <!-- This added space between the buttons -->
         <a href="/login" class="button">Login!</a>
 
@@ -31,6 +31,7 @@
           <a href="#one" class="button style2 down">More</a>
         </footer>
       </div>
+      <!-- <a href="#one" class="button style2 down anchored">Next</a> -->
     </section>
     <!-- One -->
     <section id="one" class="main style2 right dark fullscreen">
@@ -44,6 +45,10 @@
 
 
           
+
+
+
+
 
 
 
@@ -69,11 +74,13 @@
           <strong>"Wheresoever you go, go with all your heart." - Confucius</strong> 
         </p>
       </div>
-      <a href="three" class="button style2 down anchored">Next</a>
+      <a href="#work" class="button style2 down anchored">Next</a>
     </section>
 
     <!-- Three -->
-    <section id="three" class="main style2 right dark fullscreen">
+    <section id="work" class="main style2 right dark fullscreen">
+
+      main style2 right dark fullscreen
       <div class="content box style2">
         <header>
           <h2>Fun with the family!</h2>
@@ -82,10 +89,10 @@
           <hr>
            <strong>"If kids live there, then kids can travel there" - TravelwithMeko</strong></p>
       </div>
-      <a href="trip style" class="button style2 down anchored">Next</a>
+      <a href="#work" class="button style2 down anchored">Next</a>
     </section>
     <!-- Trip Styles -->
-    <section id="trip styles" class="main style3 primary">
+    <section id="work" class="main style3 primary">
       <div class="content">
         <header>
           <h2>Trip Styles</h2>
@@ -123,7 +130,7 @@
             </a>
           </article>
           <article class="from-left">
-            <a href="/Users/acltc/actualize/roam_around_vue_app/public/images/Family 2.JPG" class="image fit">
+            <a href="/Users/acltc/actualize/roam_around_vue_app/public/images/Family 2.jpg" class="image fit">
               <img src="/images/Family 2.JPG" title="Nassau, Bahamas" alt />
             </a>
           </article>

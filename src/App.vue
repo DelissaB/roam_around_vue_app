@@ -38,7 +38,7 @@
       <!-- Icons
       <!-- <ul class="icons">-->
       <a
-        href="https://wwwnc.cdc.gov/travel"
+        href="http://www.cdc.gov/vitalsigns/index.html?s_cid=vitalsigns_004"
         title="DC Vital Signs™ – Learn about the latest public health data. Read CDC Vital Signs™…"
       >
         <img

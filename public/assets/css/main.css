@@ -2331,7 +2331,7 @@ body.is-touch .main {
 #intro {
   background: url("/Users/acltc/actualize/roam_around_vue_app/public/images/southafrica.jpg"),
     url("/images/southafrica.jpg");
-  background-size: 256px 256px, cover;
+  background-size: 300px 300px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, bottom center;
   background-repeat: repeat, no-repeat;
