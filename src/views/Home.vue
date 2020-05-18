@@ -18,10 +18,30 @@
 
 
 
-          .
+          
         </p>
+
+
+
+
+        
+        
+
+
+
+
+        
+        
+        
+        
+        
+        
+        
+        .
         <hr />
-        <a href="#one" class="button">Signup!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+        <a href="/signup" class="button">Signup!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <!-- This added space between the buttons -->
         <a href="/login" class="button">Login!</a>
 
@@ -54,13 +74,14 @@
 
 
 
-          .
+          
           <hr>
           <strong>"We Travel not to Escape Life, but for Life not to escape us" - Anonymous</strong>
         </p>
       </div>
       <a href="#two" class="button style2 down anchored">Next</a>
     </section>
+
 
     <!-- Two -->
     <section id="two" class="main style2 left dark fullscreen">
@@ -78,9 +99,9 @@
     </section>
 
     <!-- Three -->
-    <section id="work" class="main style2 right dark fullscreen">
+    <section id="three" class="main style2 right dark fullscreen">
 
-      main style2 right dark fullscreen
+      <!-- main style2 right dark fullscreen -->
       <div class="content box style2">
         <header>
           <h2>Fun with the family!</h2>
@@ -91,8 +112,9 @@
       </div>
       <a href="#work" class="button style2 down anchored">Next</a>
     </section>
+    
     <!-- Trip Styles -->
-    <section id="work" class="main style3 primary">
+    <section id="tripstyles" class="main style3 primary">
       <div class="content">
         <header>
           <h2>Trip Styles</h2>
@@ -143,7 +165,7 @@
       </div>
     </section>
 
-    <!-- Contact -->
+    <!-- Contact
     <section id="contact" class="main style3 secondary">
       <div class="content">
         <header>
@@ -162,10 +184,10 @@
               <!-- <div class="field">
                 <textarea name="message" placeholder="Message" rows="6"></textarea>
               </div> -->
-            </div>
+            <!-- </div> -->
             <ul class="actions special">
               <li>
-                <a href="/logout" class="button">Thank you for signing up to the Roam Around Email list!</a>
+                <a href="/signup" class="button">Thank you for signing up to the Roam Around!</a>
                 <!-- <input type="submit" value="Send Message" /> -->
               </li>
               
