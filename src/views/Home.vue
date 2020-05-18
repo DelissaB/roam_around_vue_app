@@ -161,6 +161,7 @@
                 <a href="/logout" class="button">Thank you for signing up to the Roam Around Email list!</a>
                 <!-- <input type="submit" value="Send Message" /> -->
               </li>
+              
             </ul>
           </form>
         </div>

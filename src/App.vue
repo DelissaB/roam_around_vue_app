@@ -36,8 +36,18 @@
     <!-- Footer -->
     <footer id="footer">
       <!-- Icons
-      <ul class="icons">
-        <li>
+      <!-- <ul class="icons">-->
+      <a
+        href="https://wwwnc.cdc.gov/travel"
+        title="DC Vital Signs™ – Learn about the latest public health data. Read CDC Vital Signs™…"
+      >
+        <img
+          src="http://www.cdc.gov/images/campaigns/vitalsigns/vitalsigns_150x120.jpg"
+          style="width:150px; height:120px; border:0px;"
+          alt="CDC Vital Signs™ – Learn about the latest public health data. Read CDC Vital Signs™…"
+        />
+      </a>
+      <!-- <li>
           <a href="#" class="icon brands fa-twitter">
             <span class="label">Twitter</span>
           </a>
@@ -68,7 +78,7 @@
           </a>
         </li>
       </ul>-->
-
+      <!-- -->
       <!-- Menu -->
       <ul class="menu">
         <li>&copy; Untitled</li>
