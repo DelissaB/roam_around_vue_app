@@ -18,10 +18,30 @@
 
 
 
-          .
+          
         </p>
+
+
+
+
+        
+        
+
+
+
+
+        
+        
+        
+        
+        
+        
+        
+        .
         <hr />
-        <a href="#one" class="button">Signup!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+        <a href="/signup" class="button">Signup!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <!-- This added space between the buttons -->
         <a href="/login" class="button">Login!</a>
 
@@ -54,13 +74,14 @@
 
 
 
-          .
+          
           <hr>
           <strong>"We Travel not to Escape Life, but for Life not to escape us" - Anonymous</strong>
         </p>
       </div>
       <a href="#two" class="button style2 down anchored">Next</a>
     </section>
+
 
     <!-- Two -->
     <section id="two" class="main style2 left dark fullscreen">
@@ -78,9 +99,9 @@
     </section>
 
     <!-- Three -->
-    <section id="work" class="main style2 right dark fullscreen">
+    <section id="three" class="main style2 right dark fullscreen">
 
-      main style2 right dark fullscreen
+      <!-- main style2 right dark fullscreen -->
       <div class="content box style2">
         <header>
           <h2>Fun with the family!</h2>
@@ -91,8 +112,9 @@
       </div>
       <a href="#work" class="button style2 down anchored">Next</a>
     </section>
+    
     <!-- Trip Styles -->
-    <section id="work" class="main style3 primary">
+    <section id="tripstyles" class="main style3 primary">
       <div class="content">
         <header>
           <h2>Trip Styles</h2>
@@ -107,43 +129,51 @@
           <a href="/locations/?style_id=3" class="button">Fun with the Family!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
         </header>
 
-        <!-- Gallery  -->
-        <div class="gallery">
-          <article class="from-left">
-            <a href="/Users/acltc/actualize/roam_around_vue_app/public/images/CouplesTrip.jpg" class="image fit">
-              <img src="/images/CouplesTrip.jpg" title="Chiang Mai, Thailand" alt />
-            </a>
-          </article>
-          <article class="from-right">
-            <a href="/Users/acltc/actualize/roam_around_vue_app/public/images/CapeTown.JPG" class="image fit">
-              <img src="/images/CapeTown.JPG" title="Cape Town, South Africa" alt />
-            </a>
-          </article>
-          <article class="from-left">
-            <a href="/images/pink beach.jpg" class="image fit">
-              <img src="/images/pink beach.jpg" title="Mykonos, Greece" alt />
-            </a>
-          </article>
-          <article class="from-right">
-            <a href="/images/GirlfriendGetaway.jpg" class="image fit">
-              <img src="/images/GirlfriendGetaway.jpg" title="Atlanta, Georgia" alt />
-            </a>
-          </article>
-          <article class="from-left">
-            <a href="/Users/acltc/actualize/roam_around_vue_app/public/images/Family 2.jpg" class="image fit">
-              <img src="/images/Family 2.JPG" title="Nassau, Bahamas" alt />
-            </a>
-          </article>
-          <article class="from-right">
-            <a href="/images/Thailand Night.jpg" class="image fit">
-              <img src="/images/Thailand Night.jpg" title="Phuket, Thailand" alt />
-            </a>
-          </article>
-        </div>
-      </div>
-    </section>
 
-    <!-- Contact -->
+
+<!-- Gallery  -->
+    <div class="gallery">
+      <article class="from-left">
+        <a href="/Users/acltc/actualize/roam_around_vue_app/public/images/CouplesTrip.jpg" class="image fit">
+          <img width="100px " src="/images/CouplesTrip.jpg" title="Chiang Mai, Thailand" alt="" />
+        </a>
+      </article>
+      <article class="from-right">
+        <a href="/Users/acltc/actualize/roam_around_vue_app/public/images/CapeTown.jpg" class="image fit">
+          <img width="100px " src="/images/CapeTown.jpg" title="Cape Town, South Africa" alt="" />
+        </a>
+      </article>
+      <article class="from-left">
+        <a href="/Users/acltc/actualize/roam_around_vue_app/public/images/Brazil.jpg" class="image fit">
+          <img width="100px " src="/images/Brazil.jpg" title="Air Lounge" alt="" />
+        </a>
+      </article>
+      <article class="from-right">
+        <a href="http://sphm-finder-site-production.s3-ap-southeast-1.amazonaws.com/2018/03/lombok-pink-beach-1.jpg" class="image fit">
+          <img width="100px " src="http://sphm-finder-site-production.s3-ap-southeast-1.amazonaws.com/2018/03/lombok-pink-beach-1.jpg" title="Carry on" alt="" />
+        </a>
+      </article>
+      <article class="from-left">
+        <a href="/Users/acltc/actualize/roam_around_vue_app/public/images/Greece.JPG" class="image fit">
+          <img width="100px " src="/images/Greece.JPG" title="The sparkling shell" alt="" />
+        </a>
+      </article>
+      <article class="from-right">
+        <a href="/Users/acltc/actualize/roam_around_vue_app/public/images/GirlfriendGetaway.jpg" class="image fit">
+          <img width="100px " src="/images/GirlfriendGetaway.jpg" title="Bent IX" alt="" />
+        </a>
+      </article>
+    </div>   
+  </div>
+</section>
+
+
+
+
+
+
+
+    <!-- Contact
     <section id="contact" class="main style3 secondary">
       <div class="content">
         <header>
@@ -162,10 +192,10 @@
               <!-- <div class="field">
                 <textarea name="message" placeholder="Message" rows="6"></textarea>
               </div> -->
-            </div>
+            <!-- </div> -->
             <ul class="actions special">
               <li>
-                <a href="/logout" class="button">Thank you for signing up to the Roam Around Email list!</a>
+                <a href="/signup" class="button">Thank you for signing up to the Roam Around!</a>
                 <!-- <input type="submit" value="Send Message" /> -->
               </li>
               
