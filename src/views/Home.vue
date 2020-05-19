@@ -46,10 +46,9 @@
         <a href="/login" class="button">Login!</a>
 
         <!-- <a href="https://html5up.net/license">Creative Commons Attribution license</a> -->
-
         <footer>
           <a href="#one" class="button style2 down">More</a>
-        </footer>
+        </footer> 
       </div>
       <!-- <a href="#one" class="button style2 down anchored">Next</a> -->
     </section>
@@ -97,7 +96,7 @@
           <strong>"Wheresoever you go, go with all your heart." - Confucius</strong> 
         </p>
       </div>
-      <a href="#work" class="button style2 down anchored">Next</a>
+      <a href="#three" class="button style2 down anchored">Next</a>
     </section>
 
     <!-- Three -->
@@ -116,7 +115,7 @@
     </section>
     
     <!-- Trip Styles -->
-    <section id="tripstyles" class="main style3 primary">
+    <section id="work" class="main style3 primary">
       <div class="content">
         <header>
           <h2>Trip Styles</h2>
@@ -198,12 +197,12 @@
       </article>
       <article class="from-left">
         <a href="https://img.theculturetrip.com/800x/smart/wp-content/uploads/2019/06/00520190625_chicago_culturetrip_lhewett.jpg" class="image fit">
-          <img height="250px" src="https://img.theculturetrip.com/800x/smart/wp-content/uploads/2019/06/00520190625_chicago_culturetrip_lhewett.jpg" title="The sparkling shell" alt="" />
+          <img height="250px" src="https://img.theculturetrip.com/800x/smart/wp-content/uploads/2019/06/00520190625_chicago_culturetrip_lhewett.jpg" title="Chicago, IL" alt="" />
         </a>
       </article>
       <article class="from-right">
         <a href="https://www.ibc-aviation.com/media/k2/items/cache/5288462d048e0d3f60f64bb84cff6df4_XL.jpg" class="image fit">
-          <img height="250px" src="https://www.ibc-aviation.com/media/k2/items/cache/5288462d048e0d3f60f64bb84cff6df4_XL.jpg" title="Bent IX" alt="" />
+          <img height="250px" src="https://www.ibc-aviation.com/media/k2/items/cache/5288462d048e0d3f60f64bb84cff6df4_XL.jpg" title="Mykonos, Greece" alt="" />
         </a>
       </article>
     </div>
