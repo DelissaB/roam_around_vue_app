@@ -178,32 +178,32 @@
     <div class="gallery">
       <article class="from-left">
         <a href="https://www.azamara.com/sites/default/files/heros/cape-town-south-africa-1800x1000_1.jpg" class="image fit">
-          <img src="https://www.azamara.com/sites/default/files/heros/cape-town-south-africa-1800x1000_1.jpg" title="Cape Town, South Africa" alt="" />
+          <img height="250px" src="https://www.azamara.com/sites/default/files/heros/cape-town-south-africa-1800x1000_1.jpg" title="Cape Town, South Africa" alt="" />
         </a>
       </article>
       <article class="from-right">
         <a href="https://media.tacdn.com/media/attractions-splice-spp-674x446/07/12/71/f6.jpg" class="image fit">
-          <img src="https://media.tacdn.com/media/attractions-splice-spp-674x446/07/12/71/f6.jpg" title="Chiang Mai, Thailand" alt="" />
+          <img height="250px" src="https://media.tacdn.com/media/attractions-splice-spp-674x446/07/12/71/f6.jpg" title="Chiang Mai, Thailand" alt="" />
         </a>
       </article>
       <article class="from-left">
         <a href="https://cdn.cnn.com/cnnnext/dam/assets/170706112500-brazil.jpg" class="image fit">
-          <img src="https://cdn.cnn.com/cnnnext/dam/assets/170706112500-brazil.jpg" title="Brazil" alt="" />
+          <img height="250px" src="https://cdn.cnn.com/cnnnext/dam/assets/170706112500-brazil.jpg" title="Brazil" alt="" />
         </a>
       </article>
       <article class="from-right">
         <a href="https://i0.wp.com/travel.eatsandretreats.com/wp-content/uploads/2019/05/shutterstock_624686780-min.jpg?resize=696%2C464&ssl=1" class="image fit">
-          <img src="https://i0.wp.com/travel.eatsandretreats.com/wp-content/uploads/2019/05/shutterstock_624686780-min.jpg?resize=696%2C464&ssl=1" title="Bali, Indonesia" alt="" />
+          <img height="250px" src="https://i0.wp.com/travel.eatsandretreats.com/wp-content/uploads/2019/05/shutterstock_624686780-min.jpg?resize=696%2C464&ssl=1" title="Bali, Indonesia" alt="" />
         </a>
       </article>
       <article class="from-left">
         <a href="https://img.theculturetrip.com/800x/smart/wp-content/uploads/2019/06/00520190625_chicago_culturetrip_lhewett.jpg" class="image fit">
-          <img src="https://img.theculturetrip.com/800x/smart/wp-content/uploads/2019/06/00520190625_chicago_culturetrip_lhewett.jpg" title="The sparkling shell" alt="" />
+          <img height="250px" src="https://img.theculturetrip.com/800x/smart/wp-content/uploads/2019/06/00520190625_chicago_culturetrip_lhewett.jpg" title="The sparkling shell" alt="" />
         </a>
       </article>
       <article class="from-right">
         <a href="https://www.ibc-aviation.com/media/k2/items/cache/5288462d048e0d3f60f64bb84cff6df4_XL.jpg" class="image fit">
-          <img src="https://www.ibc-aviation.com/media/k2/items/cache/5288462d048e0d3f60f64bb84cff6df4_XL.jpg" title="Bent IX" alt="" />
+          <img height="250px" src="https://www.ibc-aviation.com/media/k2/items/cache/5288462d048e0d3f60f64bb84cff6df4_XL.jpg" title="Bent IX" alt="" />
         </a>
       </article>
     </div>
