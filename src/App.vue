@@ -83,8 +83,8 @@
       <ul class="menu">
         <li>&copy; Untitled</li>
         <li>
-          Created by Delissa Beaman
-          <a href="#"></a>
+          Created by:
+          <a href="https://www.linkedin.com/in/delissa-beaman/">Delissa Beaman</a>
         </li>
       </ul>
     </footer>

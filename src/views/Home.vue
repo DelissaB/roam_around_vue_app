@@ -91,7 +91,7 @@
           <h2>Couples' Trip</h2>
         </header>
         <p>
-          In search of a romantic escape? Click here to find your next travel destination! From romantic and relaxing to a party goers wildest dreams.  Discover beautiful scenery  fabulous dining and dancing while exploring!
+          In search of a romantic escape? Select Couples' Trip to find your next travel destination! From romantic and relaxing to a party goers wildest dreams.  Discover beautiful scenery,  fabulous dining, and dancing while exploring!
           <hr>
           <strong>"Wheresoever you go, go with all your heart." - Confucius</strong> 
         </p>
