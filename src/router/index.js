@@ -8,7 +8,7 @@ import Logout from "../views/Logout.vue";
 import StylesIndex from "../views/StylesIndex.vue";
 import RequestsIndex from "../views/RequestsIndex.vue";
 import LocationsIndex from "../views/LocationsIndex.vue";
-
+import PluckShow from "../views/PluckShow.vue";
 Vue.use(VueRouter);
 
 const routes = [
@@ -54,6 +54,11 @@ const routes = [
     path: "/locations",
     name: "locations",
     component: LocationsIndex,
+  },
+  {
+    path: "/pluck/:id",
+    name: "pluck-show",
+    component: PluckShow,
   },
 ];
 
