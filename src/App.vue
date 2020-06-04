@@ -27,6 +27,9 @@
           <li>
             <a href="/home">Logout</a>
           </li>
+          <li>
+            <a href="/pluck">Random</a>
+          </li>
         </ul>
       </nav>
     </header>
